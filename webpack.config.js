@@ -5,7 +5,6 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
   mode: 'development',
    entry: {
      bundle: './src/index.js',
-     print: './src/print.js',
    },
    devServer: {
     static: './dist',
