@@ -1,1 +1,1 @@
-# Webpack_setup_kashif
+# JavaScript-Capstone-Project
